@@ -1,0 +1,20 @@
+.optics-image{
+    width:100%
+}
+.optics-heading{
+   color:black;
+   font-size:30px;
+   font-weight:bold;
+} 
+.optics-para{
+    color:gray;
+    font-size:20px;
+}
+.optics-button{
+    color:white;
+    background-color:#1a2137;
+    width:130px;
+    height:40px;
+    border-radius:5px;
+    border-width:0px;
+}
