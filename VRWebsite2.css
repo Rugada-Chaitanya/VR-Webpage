@@ -1,0 +1,17 @@
+.purple-color{
+    background-color:#222b36;
+
+}
+.virtual-heading{
+    color:white;
+    font-weight:bold;
+    font-size:30px;
+} 
+
+.virtual-image{
+    width:100%;
+}
+
+.virtual-button{
+      width:130px;
+}
